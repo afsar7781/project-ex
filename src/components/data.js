@@ -134,7 +134,7 @@ export const celebrationData = [
   },
   {
     id: 2,
-    heading_1: "Marriage Anniversary",
+    heading_1: "Marr Anniversary",
     heading: "",
     heading_2: "Yash",
   },
@@ -173,7 +173,7 @@ export const myTaskData = [
   },
   {
     id: 4,
-    heading_1: "Interview Schedule",
+    heading_1: "Interview",
     heading: "4",
     heading_2: "View All",
   },
