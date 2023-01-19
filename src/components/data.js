@@ -32,7 +32,7 @@ export const sliderData = [
   {
     id: 2,
     heading_1: "",
-    heading_2: "Megha",
+    heading_2: "Sahil",
     heading_3: "UI Designer",
     heading_4: "Joined today",
     container_backGround_color: LIGHT3_COLOR,
@@ -46,7 +46,7 @@ export const sliderData = [
   {
     id: 3,
     heading_1: "",
-    heading_2: "Ravi",
+    heading_2: "Sahil",
     heading_3: "UI Designer",
     heading_4: "Joined today",
     container_backGround_color: LIGHT5_COLOR,
@@ -87,24 +87,7 @@ export const chatData = [
     heading_4: "",
     heading_5: "Absent",
   },
-  {
-    id: 4,
-    heading_1: "",
-    heading_1_color: LIGHT5_COLOR,
-    heading_2: "Aditya",
-    heading_3: "Trainee",
-    heading_4: "",
-    heading_5: "Absent",
-  },
-  {
-    id: 3,
-    heading_1: "",
-    heading_1_color: LIGHT6_COLOR,
-    heading_2: "Neeraj",
-    heading_3: "HR",
-    heading_4: "",
-    heading_5: "Absent",
-  },
+ 
 ];
 
 export const quickLinks = [
@@ -134,23 +117,18 @@ export const celebrationData = [
   },
   {
     id: 2,
-    heading_1: "Marr Anniversary",
+    heading_1: "Leave",
     heading: "",
-    heading_2: "Yash",
+    heading_2: "Policy",
   },
   
   {
     id: 3,
-    heading_1: "Work Anniversary",
+    heading_1: "Payroll",
     heading: "",
-    heading_2: "Riku",
+    heading_2: "Manual",
   },
-  {
-    id: 4,
-    heading_1: "kid's Birthday",
-    heading: "",
-    heading_2: "Priyank",
-  },
+  
 ];
 export const myTaskData = [
   {
@@ -171,10 +149,5 @@ export const myTaskData = [
     heading: "11",
     heading_2: "View All",
   },
-  {
-    id: 4,
-    heading_1: "Interview",
-    heading: "4",
-    heading_2: "View All",
-  },
+  
 ];
